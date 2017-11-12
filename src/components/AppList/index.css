@@ -1,0 +1,22 @@
+.listItem {
+}
+
+.listItem-title {
+    background-color: rgba(247, 240, 240, 0.7);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.listItem-content {
+    color: white;
+    min-height: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    word-wrap: break-word; 
+    word-break: normal; 
+    
+}
